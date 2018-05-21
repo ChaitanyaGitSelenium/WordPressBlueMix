@@ -46,14 +46,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'a4sZ@~<0,9G2G`<V9nR8<1=.Q!z+g*v__LIuj80YH<r*;+o_t<j~e1:,+:#=UP>K');
-define('SECURE_AUTH_KEY',  'Y~Xf#A:|&d-5]7m ~g~e=9SN4#gjbm%~^A|Kaqz@_I%tOQD*|1Dqq*LI);zHU,[<');
-define('LOGGED_IN_KEY',    '7h-G)OoP9GoA~y8K#~i&v+qE%4;bjeOV0V@=?XkZ+#w$7Z5j`6tzq2c%&;m>FL4-');
-define('NONCE_KEY',        'iI?gPf.BN35(sl{poo899OP|(z4cVW%J^Kk[I}&G-+`%nU.4gyuL|{(_&/!urui?');
-define('AUTH_SALT',        'fo-Q[$^4a^bzf-% <^E&_Q)g4+.RmJEq4B#V*j^+:TIP*k-2qb=y+B6.nO$c8Lj{');
-define('SECURE_AUTH_SALT', '^@}d;G:@kF61HLG2]8d2s!?==AHuaDJdShWH%W&:Okrlg~tkc)Tf?V6L+]u*Q%0Y');
-define('LOGGED_IN_SALT',   '(Yb+V4%$J%)kjd[TVP+J1ot3#bfVi%dJGfPpwA7lC!4Gl+e78QDu3{Y7BPt^{uNd');
-define('NONCE_SALT',       '<2AUk4rE-Nvo.]d3F?S?#q3IQ`,Zo:&%0`q]zDJ<vK*M|Oq$E(zBhW|0Ys@p(V_z');
+define('AUTH_KEY',         'lYO3CMS*9AQU_GfU=xx2q>g>C-Tpq]u#y8]T.%KL_(neq/E9l:7Eg7lP~6f|h(mD');
+define('SECURE_AUTH_KEY',  'MxWb+*6y4q~s7HQ-VwdU1:{%uvucW|ETy&42<PIcSueEV=fR~1e8|)kdLJqV1K;h');
+define('LOGGED_IN_KEY',    'coCnm6/Qq_lejw-+lfG.-BrQSrZlCc`M5P<uGdVJRY.I)y=:2KF]0N FJwsB/~~r');
+define('NONCE_KEY',        'K+fcaGHgY``7~~7wJ]j7T9>m&e% A!]C&w?Mb6-n6.lEg$YZx<7H:>Jq*gXzRkMu');
+define('AUTH_SALT',        '.$P0Hd.*lGn>*%$!r}E+uXt,]k*Vm#!%-;>mlxY}XSCsVRIIHM|B|)+DqRH5-4y0');
+define('SECURE_AUTH_SALT', 'X[[KrM+3vQ3U)DIPx|2>L 54he!>P[h2mP{@_=Rkd8XP#7qXN69%uluM}w+>T-|.');
+define('LOGGED_IN_SALT',   'FC:h8i~gr+/!v5lKV E,B>hG7-MAhGAA?Ft!|4L(Ip{}QG-NfE,TD@|`>5<|N#gh');
+define('NONCE_SALT',       'b,S(SikyPT-S+]:}iLJM8&{=eS)1i%a+[(7w_1f.9WSIU_< yapMQ2[|(4`e^<H=');
 /**#@-*/
 
 /**
