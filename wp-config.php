@@ -20,13 +20,13 @@ $service = $services['cleardb'][0];  // pick the first MySQL service
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', $service['credentials']['name']);
+define('MYSQL_DATABASE', $service['credentials']['name']);
 
 /** MySQL database username */
-define('DB_USER', $service['credentials']['username']);
+define('MYSQL_USER', $service['credentials']['username']);
 
 /** MySQL database password */
-define('DB_PASSWORD', $service['credentials']['password']);
+define('MYSQL_PASSWORD', $service['credentials']['password']);
 
 /** MySQL hostname */
 define('DB_HOST', $service['credentials']['hostname'] . ':' . $service['credentials']['port']);
